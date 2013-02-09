@@ -13,7 +13,7 @@
   },
   "scripts": {
     "start": "brunch watch --server",
-    "test": "brunch build && mocha-phantomjs public/test/index.html"
+    "test": "./bin/test"
   },
   "dependencies": {
     "javascript-brunch": ">= 1.0 < 1.6",
