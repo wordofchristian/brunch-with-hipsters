@@ -22,7 +22,7 @@ Brunch with Hipsters is a rad [Brunch](http://brunch.io/) app skeleton that come
 
 ## Getting started
 
-    brunch new <appname> --skeleton git@github.com:elving/brunch-with-hipsters.git
+    brunch new <appname> --skeleton git@github.com:wordofchristian/brunch-with-hipsters.git
     brunch w -s
 
 or
